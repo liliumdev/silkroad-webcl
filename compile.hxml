@@ -1,0 +1,4 @@
+-swf socket_bridge.swf
+-swf-version 9
+-debug
+-main SocketBridge
